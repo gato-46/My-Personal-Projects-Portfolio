@@ -1,6 +1,6 @@
 # 🤔 My-Personal-Projects-Portfolio
 
-*최종 업데이트: 2024년 10월 11일*
+*최종 업데이트: 2024년 10월 17일*
 
 <br>
 
@@ -32,12 +32,6 @@
 | 1  | **JPA 문제 제작** | JPA의 기본 개념과 동작 원리를 이해하기 위한 예제 문제 개발 📝 | Java, JPA | 👩‍👧‍👦 <br> 3인 | [GitHub](https://github.com/fisa3-third/jpa_test) | 2024-08-02 |
 | 2  | **NeoMarket** | ELK 스택을 활용한 경매/중고거래 웹 사이트 플랫폼 개발 🛒 | Spring Boot, Spring Data JPA, ELK, MYSQL, React.js | 👨‍👨‍👧‍👦 <br> 4인 | [GitHub](https://github.com/Neo-Market/BE-NeoMarket) | 2024-08-16 |
 
-
-### 📊 데이터 분석 프로젝트 목록 📊
-
-| No | 프로젝트 이름 | 설명 | 주요 기술 | 참여 인원 | 링크 | 날짜 |
-|----|---------------|------|-----------|----------|------|------|
-| 1  | **주가 데이터를 활용한 일/주/월 모델 통합 인공지능 모델링 분석** | LSTM을 이용하여 주가 데이터의 일/주/월 모델 성능 비교를 통한 모델링 분석 📈 | Python, LSTM, ipynb, jupyter lab | 👨‍👨‍👧‍👦 <br> 4인 | [GitHub](https://github.com/gato-46/datacamp_suwon) | 2023-08-27 |
 
 ---
 
