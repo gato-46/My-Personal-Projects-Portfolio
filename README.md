@@ -1,6 +1,6 @@
 # 🤔 My-Personal-Projects-Portfolio
 
-*최종 업데이트: 2024년 10월 17일*
+*최종 업데이트: 2024년 10월 19일*
 
 <br>
 
@@ -24,7 +24,7 @@
 | 8  | **Spring App Release on k8s with NGINX** | Kubernetes에서 Spring 애플리케이션을 NGINX와 함께 배포하기 🚀 | Spring, Docker, Kubernetes | 👨‍👦 <br> 2인 | [GitHub](https://github.com/gato-46/spring-app-on-k8s-with-nginx) | 2024-10-02 |
 | 9  | **Ubuntu-Stress-Test** | Spring Boot 애플리케이션 부하 테스트 가이드 📈 | Linux, Springboot, ApacheBench  | 👨‍👦 <br> 2인 | [GitHub](https://github.com/gato-46/ubuntu-stress-test) | 2024-10-08 |
 | 10 | **Aws-PipeLine-Construct** | AWS EC2 CI/CD 파이프라인 구축 ⚙️ | AWS EC2, S3, RDS, Linux, Springboot, Jenkins, Ngrok | 👨‍👨‍👧‍👦 <br> 4인 | [GitHub](https://github.com/gato-46/aws-pipe-line-construct) | 2024-10-11 |
-| 11 | **Kubernetes-ZeroTrust-NetworkPolicy** | Kubernetes의 Zero Trust 보안 모델: 네트워크 폴리시 학습하기 🌟 | Kubernetes, Minikube, Calico, Docker | 🧑​ <br> 1인 | [GitHub](https://github.com/gato-46/kubernetes-zerotrust-networkpolicy) | 2024-10-17 |
+| 11 | **Kubernetes-Zerotrust-Servicemesh-Networkpolicy-RBAC** | Kubernetes의 Zero Trust 보안 모델: Service Mesh, 네트워크 폴리시, 그리고 RBAC 학습하기 🌟 | Kubernetes, Minikube, Istio, Calico, Docker | 🧑​ <br> 1인 | [GitHub](https://github.com/gato-46/kubernetes-zerotrust-servicemesh-networkpolicy-RBAC) | 2024-10-19 |
 
 ### ✨ 개발(BE/FE) 프로젝트 목록 ✨
 
